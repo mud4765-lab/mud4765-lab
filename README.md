@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **mud4765-lab/mud4765-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
